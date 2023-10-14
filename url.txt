@@ -1,1 +1,1 @@
-https://api.arcade.academy/en/latest/examples/platform_tutorial/step_04.html
+https://api.arcade.academy/en/latest/examples/platform_tutorial/step_06.html
